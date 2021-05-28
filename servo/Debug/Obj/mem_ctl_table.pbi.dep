@@ -1,0 +1,34 @@
+mem_ctl_table.pbi: \
+  D:\Vincross\code\servo-tim8260_serving\Components\memory_control_table\mem_ctl_table.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8smn.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  D:\Vincross\code\servo-tim8260_serving\Components\memory_control_table/mem_ctl_table.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s.h \
+  D:\Vincross\fhc\servo-tim8260_serving\App\stm8s_conf.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_adc1.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc/stm8s.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_awu.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_beep.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_clk.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_exti.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_flash.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_gpio.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_i2c.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_itc.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_iwdg.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_rst.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_spi.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_tim1.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_tim2.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_tim4.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_uart1.h \
+  D:\Vincross\code\servo-tim8260_serving\STM8S_StdPeriph_Lib\inc\stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  D:\Vincross\fhc\servo-tim8260_serving\BSP\inc\drv_eeprom.h
